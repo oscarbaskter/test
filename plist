@@ -1,0 +1,31 @@
+ <?xml version="1.0" encoding="UTF-8"?> 
+ <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+ <plist version="1.0"> 
+     <dict> 
+         <key>items</key> 
+         <array> 
+           <dict> 
+               <key>assets</key> 
+               <array> 
+                     <dict> 
+                     <key>kind</key> 
+                     <string>software-package</string> 
+                     <key>url</key> 
+                     <string>http://39.104.70.211:8001/IOS/H533292BF.SJZ_0308114820.ipa</string> 
+                     </dict> 
+               </array> 
+               <key>metadata</key> 
+               <dict> 
+                     <key>bundle-identifier</key> 
+                     <string>SJZAPPTFKEYWIN20181121</string> 
+                     <key>bundle-version</key> 
+                     <string>1.4</string> 
+                     <key>kind</key> 
+                     <string>software</string> 
+                     <key>title</key> 
+                     <string>石家庄地铁APP</string> 
+               </dict> 
+           </dict> 
+         </array> 
+     </dict> 
+ </plist> 
