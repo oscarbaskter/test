@@ -11,19 +11,19 @@
                      <key>kind</key> 
                      <string>software-package</string> 
                      <key>url</key> 
-                     <string>http://39.104.70.211:8001/IOS/H533292BF.SJZ_0308114820.ipa</string> 
+                     <string>http://192.168.1.137:8080/aaa/H51214A01_0327094849.ipa</string> 
                      </dict> 
                </array> 
                <key>metadata</key> 
                <dict> 
                      <key>bundle-identifier</key> 
-                     <string>SJZAPPTFKEYWIN20181121</string> 
+                     <string>SJZAPPKEYWIN4206</string> 
                      <key>bundle-version</key> 
-                     <string>1.4</string> 
+                     <string>1.0</string> 
                      <key>kind</key> 
                      <string>software</string> 
                      <key>title</key> 
-                     <string>石家庄地铁APP</string> 
+                     <string>青岛地铁pad</string> 
                </dict> 
            </dict> 
          </array> 
