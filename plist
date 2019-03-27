@@ -11,7 +11,7 @@
                      <key>kind</key> 
                      <string>software-package</string> 
                      <key>url</key> 
-                     <string>https://github.com/oscarbaskter/test/blob/ebb0e8abc83294fc15f89fde4d13120aa9d7805a/H51214A01_0327094849.ipa</string> 
+                     <string>http://192.168.1.137:8080/aaa/H51214A01_0327094849.ipa</string> 
                      </dict> 
 <!--                      <dict>
                          <key>kind</key>
