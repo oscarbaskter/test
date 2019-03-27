@@ -13,7 +13,7 @@
                      <key>url</key> 
                      <string>https://github.com/oscarbaskter/test/blob/master/H51214A01_0327094849.ipa</string> 
                      </dict> 
-                     <dict>
+<!--                      <dict>
                          <key>kind</key>
                          <string>display-image</string>
                          <key>url</key>
@@ -24,7 +24,7 @@
                          <string>full-size-image</string>
                          <key>url</key>
                          <string>https://github.com/xiaoxinyougui/ipa/raw/master/512.png</string>
-                     </dict>
+                     </dict> -->
                </array> 
                <key>metadata</key> 
                <dict> 
