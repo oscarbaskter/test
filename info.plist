@@ -11,7 +11,7 @@
                      <key>kind</key> 
                      <string>software-package</string> 
                      <key>url</key> 
-                     <string>http://www.key-win.net/test/H51214A01_0327094849.ipa</string> 
+                     <string>http://39.104.70.211:8001/QdmissDemo/H51214A01_0413101625.ipa</string> 
                      </dict> 
                </array> 
                <key>metadata</key> 
@@ -23,9 +23,16 @@
                      <key>kind</key> 
                      <string>software</string> 
                      <key>title</key> 
-                     <string>青岛地铁pad</string> 
+                     <string>青岛地铁app</string> 
                </dict> 
            </dict> 
          </array> 
      </dict> 
  </plist> 
+
+
+
+
+
+
+
